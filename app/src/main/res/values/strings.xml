@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mock</string>
+    <string name="title_activity_home">Home</string>
+    <string name="uname">User Name</string>
+    <string name="pass">Password</string>
+    <string name="lgin">Login</string>
+    <string name="reg">Register</string>
+    <string name="edit">Edit</string>
+    <string name="srch">Search</string>
+    <string name="del">Delete</string>
+    <string name="gender">Gender</string>
+    <string name="dob">Date of Birth</string>
+    <string name="rMale">Male</string>
+    <string name="rFemale">Female</string>
+    <string name="update">Update Profile</string>
+</resources>
